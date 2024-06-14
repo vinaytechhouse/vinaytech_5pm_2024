@@ -1,0 +1,21 @@
+Yearly Report Technical Elements Identification:
+a) Sources, Connections, Credentials
+	Vinay Tech Business Excel.xlsx, DimDate, FactPayment, DimLocation
+b) Transformations needed: Year and Month Concatenate
+c) Model-Relationships
+	DimDate, Factpayments, DimLocation
+d) Model-Calculations
+	Measures: Total DF, Avg DF, Total Std Count, Cumulative Total, last year df, two years prior, growth percentage
+	Total TA,
+	Calculated Columns:
+	Calculated Tables:
+e) Visuals
+	Page Size: 16 * 9, Background Color: Light Green, company logo(image), company address
+	(textbox), Year Filter(Slicer), Card visuals(DF, AVg DF, Count Std), Table (year, cumulative total)
+     Pie (year and month, DF), Table, Matrix visual, Line, bubble map
+f) Report Concepts
+	company logo URL action
+	Bookmarks for 2017,2018
+	Mobile view for the report
+	Drill through cross reporting
+
